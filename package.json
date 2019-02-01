@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@babel/core": "7.1.6",
     "@svgr/webpack": "2.4.1",
     "babel-core": "7.0.0-bridge.0",
@@ -39,6 +40,9 @@
     "postcss-loader": "3.0.0",
     "postcss-preset-env": "6.3.1",
     "postcss-safe-parser": "4.0.1",
+=======
+    "radium": "^0.25.1",
+>>>>>>> 1c7ed120e69ac25a0b7c28f6c12f671800135f95
     "react": "^16.7.0",
     "react-app-polyfill": "^0.2.0",
     "react-dev-utils": "^7.0.1",
